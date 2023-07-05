@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\v_chxinwang\\Documents\\GitHub\\UnrealGame\\myPlugins\\Source\\myPlugins\\myPlugins.Build.cs",
+		"C:\\Users\\v_chxinwang\\Documents\\GitHub\\UnrealGame\\myPlugins\\Plugins\\PushCubeComponent\\Source\\PushCubeComponent\\PushCubeComponent.Build.cs",
+		"C:\\Users\\v_chxinwang\\Documents\\GitHub\\UnrealGame\\myPlugins\\Source\\myPlugins.Target.cs",
+		"C:\\Users\\v_chxinwang\\Documents\\GitHub\\UnrealGame\\myPlugins\\Source\\myPluginsEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

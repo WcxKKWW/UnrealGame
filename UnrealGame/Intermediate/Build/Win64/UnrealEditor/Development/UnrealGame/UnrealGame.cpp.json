@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\unrealgame\\source\\unrealgame\\unrealgame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\unrealgame\\intermediate\\build\\win64\\unrealgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\unrealgame\\intermediate\\build\\win64\\unrealeditor\\development\\unrealgame\\definitions.unrealgame.h",
+            "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\unrealgame\\source\\unrealgame\\unrealgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

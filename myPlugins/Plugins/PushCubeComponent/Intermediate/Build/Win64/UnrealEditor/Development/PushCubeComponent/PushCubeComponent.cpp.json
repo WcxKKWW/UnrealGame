@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\myplugins\\plugins\\pushcubecomponent\\source\\pushcubecomponent\\private\\pushcubecomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\myplugins\\intermediate\\build\\win64\\mypluginseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\myplugins\\plugins\\pushcubecomponent\\intermediate\\build\\win64\\unrealeditor\\development\\pushcubecomponent\\definitions.pushcubecomponent.h",
+            "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\myplugins\\plugins\\pushcubecomponent\\source\\pushcubecomponent\\public\\pushcubecomponent.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\myPlugins.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\myPlugins.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\myPluginsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PushCubeComponent">
+      <UniqueIdentifier>{43D695E0-B484-3F58-A743-42C6E53DCF97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PushCubeComponent\Source">
+      <UniqueIdentifier>{B5C409D5-29B9-3F25-B793-97CA1EC1AFE5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PushCubeComponent\Source\PushCubeComponent">
+      <UniqueIdentifier>{3F948715-2131-3CBD-B300-68CBE8340143}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\PushCubeComponent\Source\PushCubeComponent\PushCubeComponent.Build.cs">
+      <Filter>Plugins\PushCubeComponent\Source\PushCubeComponent</Filter>
+    </None>
+    <Filter Include="Plugins\PushCubeComponent\Source\PushCubeComponent\Private">
+      <UniqueIdentifier>{273D50B2-282F-3217-9C93-9515DF59F961}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\PushCubeComponent\Source\PushCubeComponent\Private\PushCubeComponent.cpp">
+      <Filter>Plugins\PushCubeComponent\Source\PushCubeComponent\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\PushCubeComponent\Source\PushCubeComponent\Public">
+      <UniqueIdentifier>{E97025F7-0DDC-3EEA-B7F8-0017BB088CFA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\PushCubeComponent\Source\PushCubeComponent\Public\PushCubeComponent.h">
+      <Filter>Plugins\PushCubeComponent\Source\PushCubeComponent\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\PushCubeComponent\PushCubeComponent.uplugin">
+      <Filter>Plugins\PushCubeComponent</Filter>
+    </None>
+    <Filter Include="Plugins\PushCubeComponent\Resources">
+      <UniqueIdentifier>{BF57274C-E77C-3624-A6BC-DF95EFD779C6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\PushCubeComponent\Resources\Icon128.png">
+      <Filter>Plugins\PushCubeComponent\Resources</Filter>
+    </None>
+    <Filter Include="Source\myPlugins">
+      <UniqueIdentifier>{D6706284-4533-3B63-98B0-FE1F04DDEE0D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\myPlugins\myPlugins.Build.cs">
+      <Filter>Source\myPlugins</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\myPlugins\myPlugins.cpp">
+      <Filter>Source\myPlugins</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\myPlugins\myPlugins.h">
+      <Filter>Source\myPlugins</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\myPlugins\myPluginsCharacter.cpp">
+      <Filter>Source\myPlugins</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\myPlugins\myPluginsCharacter.h">
+      <Filter>Source\myPlugins</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\myPlugins\myPluginsGameMode.cpp">
+      <Filter>Source\myPlugins</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\myPlugins\myPluginsGameMode.h">
+      <Filter>Source\myPlugins</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "plugtest",
+			"Path": "C:\\Users\\v_chxinwang\\Documents\\GitHub\\UnrealGame\\plugtest\\Source\\plugtest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "plugtestEditor",
+			"Path": "C:\\Users\\v_chxinwang\\Documents\\GitHub\\UnrealGame\\plugtest\\Source\\plugtestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealGame",
+			"Path": "C:\\Users\\v_chxinwang\\Documents\\GitHub\\UnrealGame\\UnrealGame\\Source\\UnrealGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealGameEditor",
+			"Path": "C:\\Users\\v_chxinwang\\Documents\\GitHub\\UnrealGame\\UnrealGame\\Source\\UnrealGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

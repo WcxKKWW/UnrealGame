@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGame\UnrealGame.cpp.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGame\UnrealGameGameModeBase.cpp.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGame\UnrealGame.init.gen.cpp.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGame\UnrealGameGameModeBase.gen.cpp.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGame\Default.rc2.res"
+/OUT:"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\UnrealGame\Intermediate\Build\Win64\UnrealEditor\Development\UnrealGame\UnrealEditor-UnrealGame.lib"

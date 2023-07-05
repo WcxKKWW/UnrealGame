@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-myPlugins.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\myPlugins\Intermediate\Build\Win64\myPluginsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\myPlugins\Intermediate\Build\Win64\UnrealEditor\Development\myPlugins\myPlugins.cpp.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\myPlugins\Intermediate\Build\Win64\UnrealEditor\Development\myPlugins\myPluginsCharacter.cpp.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\myPlugins\Intermediate\Build\Win64\UnrealEditor\Development\myPlugins\myPluginsGameMode.cpp.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\myPlugins\Intermediate\Build\Win64\UnrealEditor\Development\myPlugins\myPlugins.init.gen.cpp.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\myPlugins\Intermediate\Build\Win64\UnrealEditor\Development\myPlugins\myPluginsCharacter.gen.cpp.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\myPlugins\Intermediate\Build\Win64\UnrealEditor\Development\myPlugins\myPluginsGameMode.gen.cpp.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\myPlugins\Intermediate\Build\Win64\UnrealEditor\Development\myPlugins\Default.rc2.res"
+/OUT:"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\myPlugins\Intermediate\Build\Win64\UnrealEditor\Development\myPlugins\UnrealEditor-myPlugins.lib"

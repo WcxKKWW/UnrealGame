@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-myplug.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\plugtest\Intermediate\Build\Win64\plugtestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\plugtest\Plugins\myplug\Intermediate\Build\Win64\UnrealEditor\Development\myplug\myplug.cpp.obj"
+"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\plugtest\Plugins\myplug\Intermediate\Build\Win64\UnrealEditor\Development\myplug\Default.rc2.res"
+/OUT:"C:\Users\v_chxinwang\Documents\GitHub\UnrealGame\plugtest\Plugins\myplug\Intermediate\Build\Win64\UnrealEditor\Development\myplug\UnrealEditor-myplug.lib"

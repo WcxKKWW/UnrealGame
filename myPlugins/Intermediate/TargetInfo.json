@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "myPlugins",
+			"Path": "C:\\Users\\v_chxinwang\\Documents\\GitHub\\UnrealGame\\myPlugins\\Source\\myPlugins.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "myPluginsEditor",
+			"Path": "C:\\Users\\v_chxinwang\\Documents\\GitHub\\UnrealGame\\myPlugins\\Source\\myPluginsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

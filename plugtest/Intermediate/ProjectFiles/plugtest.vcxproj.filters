@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\plugtest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\plugtest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\plugtestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\myplug">
+      <UniqueIdentifier>{870125B3-9475-38B0-84AE-715227B07C13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\myplug\Source">
+      <UniqueIdentifier>{76EBE3B9-8A75-3793-B48A-6286FDCA3016}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\myplug\Source\myplug">
+      <UniqueIdentifier>{1145C7FE-1F34-3E31-A09D-1F8CD855EF02}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\myplug\Source\myplug\myplug.Build.cs">
+      <Filter>Plugins\myplug\Source\myplug</Filter>
+    </None>
+    <Filter Include="Plugins\myplug\Source\myplug\Private">
+      <UniqueIdentifier>{0B52AAC5-E263-3265-9DA0-B39E1ACF3C14}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\myplug\Source\myplug\Private\myplug.cpp">
+      <Filter>Plugins\myplug\Source\myplug\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\myplug\Source\myplug\Public">
+      <UniqueIdentifier>{9909F454-70E0-3CFD-957B-8624776DBD3C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\myplug\Source\myplug\Public\myplug.h">
+      <Filter>Plugins\myplug\Source\myplug\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\myplug\myplug.uplugin">
+      <Filter>Plugins\myplug</Filter>
+    </None>
+    <Filter Include="Plugins\myplug\Resources">
+      <UniqueIdentifier>{82153628-3E9C-3EA6-841C-E8BD3AA13B58}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\myplug\Resources\Icon128.png">
+      <Filter>Plugins\myplug\Resources</Filter>
+    </None>
+    <Filter Include="Source\plugtest">
+      <UniqueIdentifier>{3E387D72-4B21-3D0D-BFDE-EA3778F8366C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\plugtest\plugtest.Build.cs">
+      <Filter>Source\plugtest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\plugtest\plugtest.cpp">
+      <Filter>Source\plugtest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\plugtest\plugtest.h">
+      <Filter>Source\plugtest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\plugtest\plugtestCharacter.cpp">
+      <Filter>Source\plugtest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\plugtest\plugtestCharacter.h">
+      <Filter>Source\plugtest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\plugtest\plugtestGameMode.cpp">
+      <Filter>Source\plugtest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\plugtest\plugtestGameMode.h">
+      <Filter>Source\plugtest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

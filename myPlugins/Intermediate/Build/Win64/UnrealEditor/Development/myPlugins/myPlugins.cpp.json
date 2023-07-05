@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\myplugins\\source\\myplugins\\myplugins.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\myplugins\\intermediate\\build\\win64\\mypluginseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\myplugins\\intermediate\\build\\win64\\unrealeditor\\development\\myplugins\\definitions.myplugins.h",
+            "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\myplugins\\source\\myplugins\\myplugins.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

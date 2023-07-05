@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\plugtest\\source\\plugtest\\plugtest.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\plugtest\\intermediate\\build\\win64\\plugtesteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\plugtest\\intermediate\\build\\win64\\unrealeditor\\development\\plugtest\\definitions.plugtest.h",
+            "c:\\users\\v_chxinwang\\documents\\github\\unrealgame\\plugtest\\source\\plugtest\\plugtest.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
